@@ -304,7 +304,7 @@
             <ul>
                 <a href="{{url('/contato')}}"><li>Contato</li></a>
                 <a href="{{url('/sobre')}}"><li>Sobre</li>
-                    <a href="{{url('/')}}"><li>Home</li>
+                    <a href="{{url('/')}}"><li>Home</li></a>
             </ul>
         </div>
     </div>

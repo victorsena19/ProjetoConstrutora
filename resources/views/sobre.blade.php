@@ -158,7 +158,7 @@
 
             <div class="map">
                 <h3>Faça uma visita</h3>
-                <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="300" class="mapa" id="gmap_canvas" src="https://maps.google.com/maps?q=av%20nacoes%20unidas%20cacoal%20Brasil&t=&z=11&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://torrent9-fr.com"></a></div>
+                <div class="mapouter"><div class="gmap_canvas"><iframe width="520" height="300" class="mapa" id="gmap_canvas" src="https://maps.google.com/maps?q=av%20nacoes%20unidas%20cacoal%20Brasil&t=&z=11&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://torrent9-fr.com"></a></div>
                 </div>
                 <div class="clear"></div> <!--clear=limpar-->
         </section>
