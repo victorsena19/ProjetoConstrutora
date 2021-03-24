@@ -17,9 +17,9 @@
         <div><div class="logo1"></div></div>
         <div class="menu">
             <ul>
-                <li>Contato</li>
-                <li>Sobre</li>
-                <li>Home</li>
+                <a href="{{url('/contato')}}"><li>Contato</li></a>
+                <a href="{{url('/sobre')}}"><li>Sobre</li>
+                    <a href="{{url('/home')}}"><li>Home</li>
             </ul>
         </div>
     </div>
